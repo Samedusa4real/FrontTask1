@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#first-section-of-header{
+    background-color: rgba(43, 42, 42, 0.989);
+}
+
+.team-of-company{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url();
+    background-size: cover;
+}
